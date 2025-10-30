@@ -1,7 +1,7 @@
 import serial
 import time
 
-WAIT=0.1
+WAIT=0.2
 
 ser = serial.Serial('COM8', 9600)
 time.sleep(2) # シリアルポートが安定するまで待機
