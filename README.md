@@ -12,3 +12,5 @@ But unfortunately you would see ocasionally error cause on basic.
 Perhaps it is shortage of wait time or anything else.
 </PRE>
 Enjoy! 9600baud serial communication!
+Python version: Python 3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)](via microsoft store)
+
